@@ -52,4 +52,7 @@ nav {
   nav{
     padding: 1rem;
   }
+  .content-images {
+    flex-wrap: wrap;
+}
 }
