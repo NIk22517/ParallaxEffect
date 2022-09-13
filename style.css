@@ -55,4 +55,7 @@ nav {
   .content-images {
     flex-wrap: wrap;
 }
+  .text {
+    padding: 2rem;
+}
 }
