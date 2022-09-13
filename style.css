@@ -35,7 +35,6 @@ nav {
   min-height: 100vh;
   position: absolute;
   z-index: 2;
-  overflow: hidden;
 }
 .content-images {
   display: flex;
@@ -58,5 +57,8 @@ nav {
 }
   .text {
     padding: 2rem;
+}
+  .content {
+    overflow: hidden;
 }
 }
