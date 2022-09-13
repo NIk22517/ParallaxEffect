@@ -35,6 +35,7 @@ nav {
   min-height: 100vh;
   position: absolute;
   z-index: 2;
+  overflow: hidden;
 }
 .content-images {
   display: flex;
